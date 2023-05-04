@@ -25,9 +25,9 @@ Datasets
 
 We provide all the datasets and prompts used in our experiments.
 
-+ [[CLTC]](../datasets/cltc)
++ [[CLTC]](./datasets/cltc)
 
-+ [[SemEval]](../datasets/semeval)
++ [[SemEval]](./datasets/semeval)
 
 
 
