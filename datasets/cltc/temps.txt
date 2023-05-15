@@ -1,0 +1,9 @@
+0	Ownership-Ownership	Ownership	与	Ownership	有关系
+1	Create-Create	Create	与	Create	有关系
+2	Family-Family	Family	与	Family	有关系
+3	Social-Social	Social	与	Social	有关系
+4	Located-Located	Located	与	Located	有关系
+5	General-Special	General-Special	与	General-Special	有关系
+6	Near-Near	Near	与	Near	有关系
+7	Use-Use	Use	与	Use	有关系
+8	Part-Whole	Part-Whole	与	Part-Whole	有关系
